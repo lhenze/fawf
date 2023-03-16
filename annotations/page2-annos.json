@@ -1,0 +1,1626 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "id" : "https://lhenze.github.io/fawf/annotations/page2-annos.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FIGHT"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1021,160,152,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "January"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1870,159,110,27"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MELL"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,273,474,100"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ON’S"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=803,272,458,105"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "By HARVEY O’CONNOR"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=930,420,395,31"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "WARS"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1425,272,549,104"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Author: “Mellow’s Millions, Biography of a Fortume.”"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=797,470,669,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Every drop of blood shed in every American"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=299,540,519,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "battle since the Civil War has been coined into"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=272,572,563,29"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gold by the Mellon family. It is no exaggera-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=272,605,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tion to say that the Pittsburgh billionaire fam-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,636,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ily reaped at least $1000 each time a dough-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,668,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "boy fell in France."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=272,701,223,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "It is not merely that the Mellons, like all"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=299,743,519,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "other capitalists, rub their hands gleefully in"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,775,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "expectation of profits when clouds of gun"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,808,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "smoke and gas spread over the trenches. The"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,839,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mellon industries are specifically war indus-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,871,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tries. Chemicals? Explosives? Their coal, coke,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,903,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gas and petroleum companies are poised for"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=272,935,546,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "patriotic profit-grabbing the moment the cap-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,967,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "italist governments give thg word for war."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,999,545,31"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Their iron and steel companies await the sig-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1030,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "nal for armor plate orders, for gun carriages,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1063,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "for warships. Their aluminum company is the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1095,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "only one the government can turn to for light-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1127,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "weight equipment for soldiers, for structural"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=272,1158,546,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "materials for submarines and speedy cruisers."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1191,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Judge Thomas Mellon, founder of the for-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=298,1234,520,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tune, was only a respectably prosperous real"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1266,546,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "estate shark when the Civil War broke loose"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,1299,544,20"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in 1861, When the war ended and he cashed’"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1328,552,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in on his vouchers for army supplies, Mellon"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1363,546,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "was on the road to millions."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=273,1396,332,20"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "He was a true patriot. He believed in sup-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=300,1439,517,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "plying his country with the sinews of war—at"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,1470,547,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a good profit. As for the fighting, let the work-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1503,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ers’ and farmers’ boys do that. His son, James,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1535,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "wanted to volunteer in Wisconsin to guard"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,1568,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Southern prisoners. Old Judge Mellon flew into"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1600,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a rage."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=274,1639,81,16"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Let the Suckers Fight—We Cash In"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=301,1675,492,27"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“We owe nothing in the way of making up"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=300,1708,519,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Wisconsin’s quota,” he wrote. “It makes me"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1740,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sad to see this piece of folly. I had hoped my"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1772,546,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "boy was going to make a smart, intelligent"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1804,546,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "business man and was not such a goose as"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=275,1837,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "104 Fifth Avenue, New York, N. Y."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=626,2079,431,27"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to be seduced from his duty by the declama-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=854,538,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tions of buncombed (war) speeches."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=853,570,438,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "““It is only greenhorns who enlist,” he added."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=879,613,520,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“You can learn nothing useful in the army."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,646,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Here there is no credit attached to going. All"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,677,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "now stay if they can and go if they must."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,709,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Those who are able to pay for substitutes do"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,740,547,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "50, and no discredit attaches."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,773,344,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“In time you will come to understand that"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=881,816,520,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a man may be a patriot without risking his"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,849,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "own life or sacrificing his health. There are"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,881,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "plenty of other lives less valuable or others"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,913,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ready to serve for the love of serving.”"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=854,944,481,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mellon’s Millions"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1012,992,231,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The Spanish-American War gave the Mel-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=880,1042,520,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lon’s their second big push toward millions."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1074,546,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "That war brought prosperity such as Pitts-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,1106,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "burgh’s steel masters had never before known."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=855,1138,546,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Carnegie’s profits mounted from $7,000,000 in"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1171,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "1897 to $11,500,000 in 1898 and then soared to"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1203,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "$40,000,000 in 1900."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1234,228,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "All the big Pittsburgh war industries now"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=881,1278,521,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "cleared through Union Trust and T. Mellon"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1310,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "& Sons banks. On their boards sat the iron"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1342,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and steel mill owners, the railroad magnates,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1374,547,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the coal barons of the Iron City. On the crest"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1406,546,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of enormous war profits came the urge to"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,1438,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "monopoly. In 1899 Mellon helped to form the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1470,546,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "coal monopolies of western Pennsylvania, Pitts-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1502,547,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "burgh Coal and Monongahela River Coal &"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1534,546,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Coke. On both the Mellon banks took underly-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,1567,544,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ing mortgages and generous slices of stock."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1599,520,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The trend toward monopoly resulted in"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=881,1642,522,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Morgan’s U. S. Steel Corp. Mellon and his"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,1674,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "partner, H. C. Frick—of Homestead infamy—"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1707,547,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "organized Union Steel and held up the Morgan"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,1738,546,30"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "outfit for a sum estimated at $20,000,000. Mel-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=856,1771,547,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lon had his finger in a score af minor monop-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,1798,545,31"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "olies floated on war profits."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,1835,330,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Chairman: J. B. MATTHEWS"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=347,2192,295,20"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Vice Chairmen: WILLIAM PICKENS"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=346,2221,373,20"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "EARL BROWDER"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=512,2251,175,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Secretaries: DONALD HENDERSON"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=347,2280,372,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FRANCIS A. HENSON"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=478,2309,239,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Assistant Secretary: IDA DAILES"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=347,2339,337,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Treasurer: ANNIE E. GRAY"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=346,2368,285,18"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "- 200"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=791,2403,98,20"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Editor: JOSEPH PASS"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,2193,226,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Editorial Committee: KYLE C. CRICHTON,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,2220,477,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-98",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MALCOLM COWLEY, SAMUEL FRIEDMAN,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=859,2250,477,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-99",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "DONALD HENDERSON, JOSEPH P."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=859,2280,477,20"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-100",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LASH, MONROE SWEETLAND, DAVID"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=858,2308,478,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-101",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ZABLODOWSKY."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=858,2340,177,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-102",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Circulation Manager: GRACE MATTHEWS"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=857,2369,442,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-103",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Published monthly by the AMERICAN LEAGUE AGAINST WAR AND FASCISM,"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=396,2479,885,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-104",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Yearly subscription, 50 cents; single copies, 5 cents."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=553,2533,543,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-105",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "After the Spanish war, Andrew Mellon was"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1461,538,519,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-106",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lord of Pittsburgh and a peer of Wall Street."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1436,567,544,35"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-107",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "It was the World War which shot him to the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1437,598,543,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-108",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "top of the biggest money-pile in the Americas."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1437,634,543,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-109",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "‘World War—More Profits"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1534,682,350,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-110",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Koppers Gas and Coke was his main war"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1463,732,517,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-111",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "industry. Dr. Heinrich Koppers, a German en-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1437,764,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-112",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gineer, designed the celebrated Koppers by-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,795,543,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-113",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "product coke ovens, which distilled the coal"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,828,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-114",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gases formerly wasted in the bee-hive coke"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,860,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-115",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "oven process. From these gases and liquids"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,893,542,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-116",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "come all the essentials of poison gases and"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1437,925,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-117",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "explosives. Mellon grabbed Koppers’ company"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,956,545,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-118",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "as soon as the World War broke out and in"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,989,545,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-119",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "19156 began signing fat contracts with the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1021,542,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-120",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Allies. When the United States joined in the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,1052,543,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-121",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "blood-bath, Mellon turned in Dr. Koppers as"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,1084,543,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-122",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "an “alien enemy,” had his share in the com-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,1116,543,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-123",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "pany and his patents confiscated by the gov-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1438,1149,543,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-124",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ernment, and then bought them in for a song."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1181,542,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-125",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "During the war, units of Koppers by-product"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1464,1224,521,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-126",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "coke ovens couldn’t be built fast enough. From"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1257,543,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-127",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a $1,500,000 firm in 1915, it developed into the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1289,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-128",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "$177,000,000- giant of today, flanked by the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1320,543,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-129",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "$200,000,000 Eastern Gas and Fuel Associates."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1352,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-130",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "During the war, the Mellons’ Standard Steel"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1464,1396,519,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-131",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Car Co. turned patriotically to gun carriages."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1428,543,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-132",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“0il is as necessary as blood in the battles of"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1460,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-133",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tomorrow,” cried Clemenceau, war Premier of"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1492,546,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-134",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "France, and the Mellons responded through"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1525,543,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-135",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "their Gulf Oil Corp., which poured out a"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1557,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-136",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "golden-black flood to keep the war fueled and"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1439,1588,544,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-137",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lubricated. The Mellons’ N. Y. Shipbuilding"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,1621,544,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-138",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Co. laid down keels which later bore soldiers"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1653,543,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-139",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and munitions across the pond. The Aluminum"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1685,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-140",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Co. of America supplied the government with"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,1717,542,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-141",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "metal at 33 cents a pound. After the war, it"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1749,544,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-142",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dropped promptly to 22 cents."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1781,355,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-143",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "And Today"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1635,1830,153,28"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-144",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Koppers and Gulf Oil laboratories are at"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1466,1879,521,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-145",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "work today on the gases and chemicals of the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1912,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-146",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "next war. Bethlehem Steel, in which the Mel-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,1945,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-147",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lons are the biggest stockholders, is turning"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,1976,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-148",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "out armorplate for the fast new cruisers being"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2009,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-149",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "built as part of Roosevelt’s “public works” pro="
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2040,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-150",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gram. Pittsburgh Steel and Crucible Steel, in"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2073,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-151",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "which the Mellons are important, are ready"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2105,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-152",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to “do their share.” Aluminum Co. is supply-"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,2137,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-153",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ing, at monopoly prices, the lightweight metal"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2169,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-154",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "which makes bigger and yet lighter warships"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1440,2201,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-155",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "possible. Mellon banks are ready, as in the"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2232,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-156",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "last war, to peddle “victory loans” and to take"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2265,543,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-157",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "their share of the war profits."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2297,356,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-158",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mellon industries stand alert for the ‘tocsins"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1466,2338,519,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-159",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of the next imperialist War, eagerly awaiting"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1442,2372,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-160",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the fabulous profits which mass murder has"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2405,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-161",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "always tumbled into their laps."
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1441,2436,382,27"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-162",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "w"
+    },
+    "target" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76#xywh=1669,2515,82,49"
+  } ]
+}
