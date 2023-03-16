@@ -1,0 +1,1396 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "id" : "https://lhenze.github.io/fawf/annotations/page1-annos.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "AGAINST WAR AND FASCISM"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=208,618,1295,75"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "A CALL!"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,755,1124,160"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "To Workers, Farmers, Youths of (or near)"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=239,978,517,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Military Age, Women and all Opponents of"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=214,1006,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "War (with a few side-remarks to Roosevelt"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=214,1033,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and Congress):"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=214,1060,178,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The U. S. Government talks peace and works"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=241,1104,518,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "for war. It has stolen $585,000,000 of Public"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1132,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works money for the Army and Navy. It’s"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1159,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "our money; it was meant for life; it is being"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1186,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "spent for death, death for us and ours, death"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1213,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "for comrades under other flags, profits for"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1240,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "swivel-chair patriots."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1267,249,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "You wouldn't try to kid wus, would you,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=242,1312,518,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Frankie, telling us that this money for war-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1339,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ships and a mechanized army is for National"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1366,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Recovery? You, and the double-chinned mali-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1393,544,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tary experts in Congress, and the steel and"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=217,1421,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "chemical millionaires, you kmow that war is"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=217,1448,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "likely, in the spring of 1934, in 1935 or 1936—"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1475,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "at the very latest in 19867 Almost anywhere,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1501,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "anytime—a guns-and-gas waor, o good stiff"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=215,1529,546,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "shot of high pressure national salesmanship to"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1556,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "finisk off the unsuccessful tariff wars, the trade"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1583,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "wars the shipping wars, the cable-amd-radio"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=217,1611,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "wars, the money wars—all the polite wars that"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=217,1637,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the United States and every other nation ex-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=218,1665,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "cept Soviet Russia has been in ever since the"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=218,1692,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "fake armistice of November 11th, 1918."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=216,1719,470,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The U. S. Government has recruited 313,000"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=244,1764,518,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "young men in CCC camps under the discipline"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=218,1791,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of Army officers who are laying plans to use"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=218,1818,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "them as soldiers when time comes."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=218,1846,409,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The U. S. Government has put war factories"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=244,1890,519,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "on overtime, meanwhile thousands of other"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=219,1917,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "factories and productive units that could turn"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=219,1944,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "out necessaries of life remain closed or, when"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=219,1971,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "open, turn out fewer goods to sell at higher"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=219,1999,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prices."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=218,2026,74,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "You see, Frankie, the trouble is that the"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=247,2070,517,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "workers and farmers, like their comrades in"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=220,2097,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "other countries have paid the cost of all the"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=220,2125,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "polite wars since 1918 as they went along. They"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=219,2151,547,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "have paid it in cash, in health, in worry, in"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=221,2179,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "loss of their very lives. That’s why you can’t"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=221,2206,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sell them more NRA goods at profiteering"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=221,2234,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prices. The idea of robbing them of Public"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=221,2260,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works mioney doesn’t strike them as wvery"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=224,2287,542,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "bright. Several millions of them—sixty million"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=222,2314,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "are getting less than enough to live on—are"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=221,2342,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "pretty well wise to the fact that they have"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=222,2369,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "been two-timed by the industrial bosses, bank-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=224,2396,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ers, flag-kissing politicians and their own"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=223,2423,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "childish faith in what these people said was"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=223,2450,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "good for them."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=223,2477,176,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The U. S. Government goes on spending mil-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=248,2527,519,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lions for the Reserve Officers Training Corps"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=223,2554,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in the schools and colleges, for the Citizens’"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=223,2581,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Military Training Corps and for military prop-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=223,2608,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "aganda. Meantime, all over America schools"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=797,978,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "are being closed for lack of funds, children are"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=798,1005,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sickening and dying of cold and “malnutri-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=798,1031,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tion’—polite name for hunger—and hundreds"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=799,1059,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of thousands of teachers are unpaid. Education"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=798,1086,546,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "for death must go on, say the master minds"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=799,1113,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : ".in Washington; never mind what happens to"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=792,1140,552,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "education for life."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=799,1167,205,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The American"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=819,1271,164,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Navy must be"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=818,1301,167,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "second to mone,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=812,1330,179,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“to support Amer-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=799,1360,205,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ican interests,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=821,1389,161,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "especially the de-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=801,1418,203,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "velopment of"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=827,1447,149,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "American foreign"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=799,1477,207,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "commerce and"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=820,1506,165,18"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the merchant"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=824,1535,154,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "marine.”’—"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=839,1564,126,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Secretary of the"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,1594,193,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Navy,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=867,1623,68,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Claude Swanson."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,1652,193,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "You must know, Frankie, that the workers"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=830,1769,517,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and farmers are from Missouri about the"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=804,1796,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NRA, the AAA, and the rest of the alphabet"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=804,1823,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "—and that a few million are sure it’s a trick"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=803,1851,546,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "by the Polite Rich to surrender some of the"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,1878,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "little things so that the workers and farmers"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,1905,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "won’t go after the big things, such as, for in-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,1932,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "stance, workers’ owmership of industry and"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=804,1960,546,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "government. Take a tip and pass it on to your"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=803,1986,546,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "yes-men in Congress, dow't try to give them a"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,2014,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "War. That’s too big a thing for you to handle."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,2041,543,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "It wouldn’t be healthy even if the United"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,2068,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "States “won’."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=804,2095,160,18"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "People of America, your government is act-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=832,2163,517,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ing like a crazy man, as crazy as Insull and"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,2190,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Kreuger or a thousand other capitalists who"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,2217,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-98",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "have taken a nosedive to destruction. Unless"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,2244,545,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-99",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the criminal insanity is halted the United"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=805,2271,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-100",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "States will be thrown into imperialist war."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,2299,506,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-101",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "America will be transformed into a shriek-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=832,2331,519,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-102",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ing, murderous madhouse, wired for sound by"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,2358,545,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-103",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the government-controlled radio, sending its"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=807,2385,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-104",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "best and strongest young men to kill and be"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=807,2412,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-105",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "killed. For what? For profit. To save a profit"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=807,2439,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-106",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "system that cannot be saved."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=808,2466,350,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-107",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "You, the workers, farmers, women and young"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=832,2500,520,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-108",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "men, all you who would have to pay for, fight"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=808,2527,544,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-109",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in and suffer for another war spasm of this"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=807,2554,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-110",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dying system, you can halt this march to death"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=806,2581,545,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-111",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "if you act now."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=808,2608,178,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-112",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Join with the American League Against"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1409,755,519,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-113",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "War and Fascism in its immediate nation-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1387,782,543,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-114",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "wide protest."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1386,809,150,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-115",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Organize and take part in demonstrations in"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1413,853,518,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-116",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "your neighborhood, your town, your shop or"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1386,881,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-117",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "factory, in schools and churches."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1387,908,398,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-118",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Crack down on your Congressman with writ-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1412,951,519,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-119",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ten and spoken demands, with delegations and"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1388,985,544,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-120",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "mass pressure; demand that he vote for an"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1389,1019,543,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-121",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "immediate halt to the stealing of Public Works"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1387,1050,545,25"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-122",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "money for war contracts."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1388,1083,293,21"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-123",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bring| about lightning strikes, temporary"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1416,1125,515,28"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-124",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "stoppages of work on farms, railroads, docks,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1389,1160,545,26"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-125",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "warehouses, factories, and particularly on all"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1394,2077,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-126",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "war jobs, on January 29th, during the protest"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1394,2110,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-127",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in Washington."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1394,2143,178,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-128",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Finally, send delegates to Washington Jan-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1421,2187,517,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-129",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "uary 29th, to tell Roosevelt and Congress your"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1395,2220,544,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-130",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "demands:"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1395,2253,106,19"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-131",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Public works; not war works."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1421,2303,353,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-132",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Cash relief and unemployment insurance, not"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1421,2348,520,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-133",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "bull pens and chain gangs. (Cancel war con-"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1395,2381,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-134",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tracts and use the money for this relief.)"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1396,2414,489,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-135",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Keep schools open, feed and clothe children,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1422,2458,518,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-136",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "pay teachers; build more schools, not warships."
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1396,2491,544,23"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-137",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Organize, protest, strike, FIGHT for a"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1423,2541,518,22"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-138",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "workers’ and farmers’ peace in a workers’ and"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1397,2573,545,24"
+  }, {
+    "id" : "http://91bcb12d-f656-4244-b19d-c5e71f133954-139",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "farmers’ world,"
+    },
+    "target" : "http://e4092308-4b96-41b2-8919-31a1409d124d#xywh=1398,2607,178,20"
+  } ]
+}
