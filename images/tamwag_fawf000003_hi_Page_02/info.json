@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 69,
+    "height" : 93
+  }, {
+    "width" : 138,
+    "height" : 185
+  }, {
+    "width" : 276,
+    "height" : 369
+  }, {
+    "width" : 552,
+    "height" : 737
+  }, {
+    "width" : 1104,
+    "height" : 1473
+  }, {
+    "width" : 2208,
+    "height" : 2945
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2208,
+  "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_02",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2945
+}
