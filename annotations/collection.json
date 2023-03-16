@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://lhenze.github.io/fawf/annotations/page1-annos.json" ],
+  "@id" : "https://lhenze.github.io/fawf/annotations/collection.json",
+  "label" : "All annotations loaded in lhenze/fawf project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
