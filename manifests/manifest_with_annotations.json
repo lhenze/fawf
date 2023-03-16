@@ -30,7 +30,7 @@
         "motivation" : "sc:painting",
         "resource" : {
           "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
+          "@type" : "cnt:contentAsText",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
@@ -60,7 +60,7 @@
         "motivation" : "sc:painting",
         "resource" : {
           "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_02/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
+          "@type" : "cnt:contentAsText",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
