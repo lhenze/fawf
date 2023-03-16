@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lhenze.github.io/fawf/manifests/manifest_with_annotations.json",
     "label" : "IIIF Test Project: FAWF with annotations"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lhenze.github.io/fawf/manifests/b18035723_manifest_copy.json",
+    "label" : "Copy: Wunder der Vererbung / von Fritz Bolle."
   } ]
 }
