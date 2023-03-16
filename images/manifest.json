@@ -1,0 +1,66 @@
+{
+  "id" : "https://lhenze.github.io/fawf/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in lhenze/fawf project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2189,
+    "id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/canvas/",
+    "label" : {
+      "none" : [ "tamwag_fawf000003_hi_Page_01" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 69,
+              "height" : 93
+            }, {
+              "width" : 137,
+              "height" : 185
+            }, {
+              "width" : 274,
+              "height" : 369
+            }, {
+              "width" : 548,
+              "height" : 738
+            }, {
+              "width" : 1095,
+              "height" : 1476
+            }, {
+              "width" : 2189,
+              "height" : 2952
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2189,
+            "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2952
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2189,
+          "id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2952
+        },
+        "target" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/canvas/"
+      } ]
+    } ],
+    "height" : 2952
+  } ]
+}
