@@ -1,0 +1,83 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://lhenze.github.io/fawf/manifests/manifest_with_annotations.json",
+  "@type" : "sc:Manifest",
+  "label" : "IIIF Test Project: FAWF with annotations",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This is a demonstration of a tamwag serial using word-level annotations, and a text overlay tool.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Test Project Only",
+  "sequences" : [ {
+    "@id" : "http://2f6edd12-3749-49a7-af84-9dab5d9d94ea",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e4092308-4b96-41b2-8919-31a1409d124d",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1 canvas",
+      "height" : 2952,
+      "width" : 2189,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7be04e27-c7ba-4ea9-9b74-5dadebb7c284",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_01",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2952,
+          "width" : 2189
+        },
+        "on" : "http://e4092308-4b96-41b2-8919-31a1409d124d"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://lhenze.github.io/fawf/annotations/page1-annos.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Page 1: OCR via tesseract"
+      } ]
+    }, {
+      "@id" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76",
+      "@type" : "sc:Canvas",
+      "label" : "Page 2 canvas",
+      "height" : 2945,
+      "width" : 2208,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f6aba229-1f7a-4668-bf64-880e971bd18b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lhenze.github.io/fawf/images/tamwag_fawf000003_hi_Page_02",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2945,
+          "width" : 2208
+        },
+        "on" : "http://60b3c23b-316b-4ee3-9163-f9a8afe3ff76"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://lhenze.github.io/fawf/annotations/page2-annos.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Page 2: OCR via tesseract"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
