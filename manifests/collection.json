@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lhenze.github.io/fawf/manifests/manifest.json",
     "label" : "IIIF Test Project: FAWF"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lhenze.github.io/fawf/manifests/manifest_with_annotations.json",
+    "label" : "IIIF Test Project: FAWF with annotations"
   } ]
 }
