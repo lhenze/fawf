@@ -23,6 +23,12 @@
       "label" : "Page 1 canvas",
       "height" : 2952,
       "width" : 2189,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/lhenze/fawf/main/annotations/alto_page1.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "ALTO XML"
+      },
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://7be04e27-c7ba-4ea9-9b74-5dadebb7c284",
@@ -53,6 +59,12 @@
       "label" : "Page 2 canvas",
       "height" : 2945,
       "width" : 2208,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/lhenze/fawf/main/annotations/alto_page2.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "ALTO XML"
+      },
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://f6aba229-1f7a-4668-bf64-880e971bd18b",
